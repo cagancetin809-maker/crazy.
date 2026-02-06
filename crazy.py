@@ -323,6 +323,7 @@ async def on_ready():
 
 import os
 
-TOKEN = os.getenv("TOKEN")
-bot.run(TOKEN)
+TOKEN = os.getenv("MTQ2ODYzOTQwNTU3NjI5MDMyNA.Gsz0lf.MKP17CSMWLNveWWbRCWSU5wGj1fRaQ6DhtErTY")
+bot.run("MTQ2ODYzOTQwNTU3NjI5MDMyNA.Gsz0lf.MKP17CSMWLNveWWbRCWSU5wGj1fRaQ6DhtErTY")
+
 
